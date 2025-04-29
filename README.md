@@ -1,2 +1,2 @@
 # presence-aware
-Multi-sensor presence detection system with sensor fusion for room-level localization and smart home automation.
+Multi-sensor presence detection system for smart home automation with sensor fusion
